@@ -1,3 +1,10 @@
+This project aims to develop an automated system for managing a public library. It provides an admin panel with an interactive interface, enabling librarians to easily control and manage various aspects of the library. Key features of this system include:
+
+* **User Management**:  Register and manage library members, including their personal information and borrowing history.
+* **Book Management**:  Catalog and track library books, including details like title, author, genre, and availability.
+* **Lending and Returning**:  Allow members to borrow and return books, and manage due dates and fines.
+* **Search and Browse**:  Provide powerful search and browse functionality to help users find books easily.
+* **Reports and Analytics**:  Generate reports on book usage, member activity, and other relevant metrics.
 # Library Management System
 
 > An automated system to manage a public library. Admin panel for librarians to control and manage the system easily through an interactive interface.
