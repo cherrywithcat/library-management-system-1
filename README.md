@@ -1,4 +1,10 @@
-# Library Management System
+This web page appears to be a GitHub repository for a project called "Library Management System." The project is an automated system designed to manage a public library. Key features and information from the README.md file include:
+
+* **Admin Panel**: The system includes an admin panel for librarians to easily control and manage the library through an interactive interface.
+* **Backend**: The backend is built using PHP 5.6 and the Laravel 4.2 PHP MVC framework.
+* **Frontend**: The frontend is built using Bootstrap v2.2.2 and jQuery, with an additional responsive Bootstrap admin template called Edmin.
+* **Documentation**: The README.md file provides information on development, contributing, and setting up the system.
+* **Screenshots**: Screenshots of the system's interface are included for reference.# Library Management System
 
 > An automated system to manage a public library. Admin panel for librarians to control and manage the system easily through an interactive interface.
 
